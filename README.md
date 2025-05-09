@@ -1,1 +1,1 @@
-# pg2_parcial1_p2
+Uso de Django
